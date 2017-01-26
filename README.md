@@ -1,1 +1,1 @@
-# algorithms-for-ACM-ICPC
+# algorithms
